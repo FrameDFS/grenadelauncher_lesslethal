@@ -1,2 +1,3 @@
 # grenadelauncher_lesslethal
-Converted Grenade Launcher to Non-Letal Ammunition Launcher || Transformation du lanceur de grenade en lanceur de munition non letal
+[EN] Converted Grenade Launcher to Non-Letal Ammunition Launcher
+[FR] Transformation du lanceur de grenade en lanceur de munition non letal
